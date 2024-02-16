@@ -35,4 +35,4 @@ This is a simple graphics editor application developed in C# using Windows Forms
 
 ## Screenshots
 
-![Graphics Screenshot](https://github.com/VeraTaras/Matrix/blob/master/project2.png)
+![Graphics Screenshot](https://github.com/VeraTaras/Graphics/blob/master/project3.png)
