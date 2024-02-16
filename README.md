@@ -16,7 +16,7 @@ This is a simple graphics editor application developed in C# using Windows Forms
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/SimpleGraphicsEditor.git
+   git clone https://github.com/VeraTaras/Graphics.git
    ```
 2. Open the project in Visual Studio.
 
