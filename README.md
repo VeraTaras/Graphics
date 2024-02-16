@@ -20,7 +20,7 @@ This is a simple graphics editor application developed in C# using Windows Forms
    ```
 2. Open the project in Visual Studio.
 
-3. Open the solution file (`Matrix.sln`) in Visual Studio.
+3. Open the solution file (`Graphics.sln`) in Visual Studio.
    
 4. Build and run the application.
 
@@ -33,4 +33,6 @@ This is a simple graphics editor application developed in C# using Windows Forms
 5. **Color Selection:** Choose pen and fill colors from the color palette.
 6. **Save:** Save your drawing as a JPG file using the save button.
 
+## Screenshots
 
+![Graphics Screenshot](https://github.com/VeraTaras/Matrix/blob/master/project2.png)
